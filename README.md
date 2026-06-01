@@ -3,13 +3,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 
 
-# 💰 ردیاب قیمت نقره - Streamlit
+🏆 ردیاب قیمت طلا - Streamlit
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-اپلیکیشن تحت وب برای ردیابی قیمت لحظه‌ای نقره (جهانی و ایران) با رابط کاربری فارسی.
+اپلیکیشن تحت وب برای ردیابی قیمت لحظه‌ای طلا (جهانی و ایران) با رابط کاربری فارسی.
 
 ## ✨ ویژگی‌ها
 
@@ -26,8 +26,8 @@
 ### 1. کلون پروژه
 
 ```bash
-https://github.com/Saeid13590705/silver.git
-cd silver-price-streamlit 
+ https://github.com/Saeid13590705/gold_tracker.git
+cd gold_tracker
 pip install -r requirements.txt
 streamlit run streamlit_app/app.py
 
